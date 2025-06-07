@@ -10,6 +10,6 @@ Reserved Instance opportunities for EC2 instances (72% savings each).
 Some Key results from the Dashboard:
 AWS Glue had the highest cost service at $2,389 per month,
 Amazon RDS at $921 per month,
-and EC2 followed with significant spend of at $738 per month.
-With an average savings potential across resource opportunities of 77.8%
+and EC2 followed with a significant spend at $738 per month.
+With an average savings potential of 77.8% across resource opportunities.
 
