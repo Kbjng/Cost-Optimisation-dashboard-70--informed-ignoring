@@ -1,4 +1,4 @@
-# Cost-Optimisation-dashboard-70--informed-ignoring
+# Cost-Optimisation-dashboard-70%--informed-ignoring
 
 This dashboard seeks to identify cost savings opportunities from an informed ignoring perspective on an AWS CUR file from October 2018.
 It identified $781/month in savings potential resulting in $9,367 annually.
